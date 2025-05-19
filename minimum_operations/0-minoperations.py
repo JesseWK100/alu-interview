@@ -8,7 +8,7 @@ Copy All and Paste operations.
 
 def minOperations(n):
     """
-    Calculate the minimum number of operations required to get n 'H' characters.
+    Calculate minimum number of operations required to get n 'H' characters.
 
     Args:
         n (int): The target number of 'H' characters.
